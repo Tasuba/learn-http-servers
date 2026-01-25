@@ -1,4 +1,4 @@
-module github.com/bootdotdev/learn-http-servers
+module github.com/Tasuba/learn-http-servers
 
 go 1.25.1
 
@@ -10,7 +10,6 @@ require (
 )
 
 require (
-	github.com/Tasuba/learn-http-servers v0.0.0-20260124143524-287d405a6da8 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/sys v0.25.0 // indirect
 )

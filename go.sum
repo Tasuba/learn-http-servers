@@ -1,5 +1,3 @@
-github.com/Tasuba/learn-http-servers v0.0.0-20260124143524-287d405a6da8 h1:uQRraZCLPTnkvvf9Aq25PiyKtVfrWWGhACDKejomEF0=
-github.com/Tasuba/learn-http-servers v0.0.0-20260124143524-287d405a6da8/go.mod h1:r0tLDNTGmfQ2CgbwTpQGCjAr94Y2RSvwyFtr/ojADNI=
 github.com/alexedwards/argon2id v1.0.0 h1:wJzDx66hqWX7siL/SRUmgz3F8YMrd/nfX/xHHcQQP0w=
 github.com/alexedwards/argon2id v1.0.0/go.mod h1:tYKkqIjzXvZdzPvADMWOEZ+l6+BD6CtBXMj5fnJppiw=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
